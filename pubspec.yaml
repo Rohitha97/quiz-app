@@ -1,0 +1,53 @@
+name: qa
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_spinkit: ^5.0.0
+  
+
+  
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+
+  
+
+  provider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.0
+  adobe_xd: ^2.0.0+1
+
+flutter_icons:
+  android: true
+  ios: true
+  #image_path: "assets/QA_icon.png"
+
+flutter:
+
+  
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+
+
+  fonts:
+    - family: "gabriola"
+      fonts:
+        - asset: assets\Gabriola.ttf
+    
+    - family: "A760-Roman"
+      fonts:
+        - asset: assets\A760-Roman-Regular.ttf
