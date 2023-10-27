@@ -1,12 +1,12 @@
 # Q&A Quiz App
-This application is basically Questions and Answers base quiz app and i used open trivia database api to get the quizes. there are 6 type of quizes are avalible in this app,
+This application is essentially a Questions and Answers based quiz app that utilizes the Open Trivia Database API to retrieve quizzes. There are six types of quizzes available in this app:
 
-    1.Technologies Quiz
-    2.Mathermatics Quiz
+    1.Technology Quiz
+    2.Mathematics Quiz
     3.Science Quiz
     4.Sports Quiz
     5.Geography Quiz
-    6.General Knowledge
+    6.General Knowledge Quiz
     
 Demostration:- https://youtu.be/zvy8cQwgDUM    
 
